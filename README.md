@@ -13,7 +13,7 @@ When executing the api for the first time, roles are created for the users and a
 
 If you want to register a new user you must send the access token that is returned when you sign in with admin@localhost and run the following endpoint
 
-![image](https://user-images.githubusercontent.com/75379137/146658642-268634ca-9c86-4738-9e13-9806fe1f56c8.png)
+![image](https://user-images.githubusercontent.com/75379137/146665327-b48de5c3-2b17-4d93-b917-3ccb59974353.png)
 
 endpoint to see all products (to access the endpoints you must send the access token in the headers like this)
 
