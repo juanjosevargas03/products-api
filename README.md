@@ -27,8 +27,25 @@ endpoint to create a new product (in category send the id of the category )
 
 ![image](https://user-images.githubusercontent.com/75379137/146658698-53122a4c-ec51-452f-a419-05751e023c86.png)
 
-to update a category (you must send the id by url like this)
+endpoint to update a category (you must send the id by url like this)
 
 ![image](https://user-images.githubusercontent.com/75379137/146658824-a290a538-4b29-4643-985a-376591578021.png)
+
+endpoint to filter products by name
+
+![image](https://user-images.githubusercontent.com/75379137/146658943-119ed57b-8ec4-4003-8d18-133c65b69704.png)
+
+endpoint to filter products by category
+
+![image](https://user-images.githubusercontent.com/75379137/146658977-7795bcfb-df08-41b3-87e0-39cb2eab2428.png)
+
+endpoint to update product (you must send the id by url like this) code 204 means update successfully
+
+![image](https://user-images.githubusercontent.com/75379137/146659025-421cff8d-1024-4dfc-8a68-dc378a6f1c9d.png)
+
+endpoint to remove a product (you must send the id by url like this)
+
+![image](https://user-images.githubusercontent.com/75379137/146658901-4195f8ee-cb48-45f6-8a08-00cf856b69b8.png)
+
 
 
